@@ -2,7 +2,7 @@
 Institute of Theoretical Physics, Chinese Academy of Science( ITP,CAS ).
 
 ##Personal Information
-I am currently a PH.D candidate at Institute of Theoretical Physics, Chinese Academy of Science( ITP,CAS ). I an interested in particle physics, cosmology, etc.
+I am currently a Ph.d candidate at Institute of Theoretical Physics, Chinese Academy of Science( ITP,CAS ). I an interested in particle physics, cosmology, etc.
 
 ##Interesting
 
