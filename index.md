@@ -16,4 +16,7 @@ I am currently a PH.D. candidate at Institute of Theoretical Physics, Chinese Ac
 
 ## Interesting
 
-I am a fan of classical music.
+I am a fan of classical music. Now i am learing how to perform a tolerable noise on the violin and i think the things will go better.
+
+## Miscellaneous
+
