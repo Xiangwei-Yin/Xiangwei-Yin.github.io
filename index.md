@@ -6,7 +6,7 @@ I am currently a PH.D. candidate at Institute of Theoretical Physics, Chinese Ac
 
 
 ## Research
- I an interested in particle physics, cosmology, etc.
+ I am interested in particle physics, cosmology, etc.
  
  Here are my preprints.
  
