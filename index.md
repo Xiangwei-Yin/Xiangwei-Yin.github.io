@@ -8,7 +8,7 @@ I am currently a PH.D. candidate at Institute of Theoretical Physics, Chinese Ac
 ## Research
  I an interested in particle physics, cosmology, etc.
  Here is my preprint.
- .[The general U1X Models Inspired from SO(10)]（https://arxiv.org/abs/2201.03878）.
+ .[The general U1X Models Inspired from SO(10)].(https://arxiv.org/abs/2201.03878).
 
 ## Interesting
 
