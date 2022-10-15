@@ -19,4 +19,7 @@ I am currently a PH.D. candidate at Institute of Theoretical Physics, Chinese Ac
 I am a fan of classical music. Now i am learing how to perform a tolerable noise on the violin and i think the things will go better.
 
 ## Miscellaneous
+### Computer tools in high energy physics and cosmology  i am learning 
+SARAH:[Sarah](https://arxiv.org/abs/0806.0538)
 
+Feynrules:[FeynRules 2.0 - A complete toolbox for tree-level phenomenology](https://arxiv.org/abs/1310.1921)
