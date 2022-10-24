@@ -20,6 +20,14 @@ I am a fan of classical music. Now i am learing how to perform a tolerable noise
 
 ## Miscellaneous
 ### Computer tools in high energy physics and cosmology  i am learning 
+Feyncalc:[Documents](https://feyncalc.github.io/)
+
 SARAH:[Sarah](https://arxiv.org/abs/0806.0538)
 
 Feynrules:[FeynRules 2.0 - A complete toolbox for tree-level phenomenology](https://arxiv.org/abs/1310.1921)
+
+MadGraph:[Documents](https://launchpad.net/mg5amcnlo)
+
+MicrOmegas:[Documents](http://lapth.cnrs.fr/micromegas/)
+
+Gfitter:[A Generic Fitter Project for HEP Model Testing](http://project-gfitter.web.cern.ch/project-gfitter/)
