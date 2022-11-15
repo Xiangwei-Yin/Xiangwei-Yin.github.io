@@ -1,9 +1,9 @@
-## Xiangwei Yin(尹翔伟)
+## Xiangwei Yin
 Institute of Theoretical Physics, Chinese Academy of Science( ITP,CAS ).
 
 ## Personal Information
 I am currently a Ph.D. candidate at Institute of Theoretical Physics, Chinese Academy of Science ( ITP,CAS ).
-I got my Bachelor Degree from NanJing University of Aeronautics and Astronautics (NUAA) in 2017, and then finished my Master Degree at Institute of High Energy Physics, Chinese Academy of Science (IHEP,CAS).
+I got my Bachelor Degree from Nanjing University of Aeronautics and Astronautics (NUAA) in 2017, and then finished my Master Degree at Institute of High Energy Physics, Chinese Academy of Science (IHEP,CAS) in 2020.
 
 ## Research
  I am interested in particle physics (or so called High Energy Physics), cosmology (especially inflation), black hole physics, etc. 
